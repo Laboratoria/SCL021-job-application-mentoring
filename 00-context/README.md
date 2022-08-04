@@ -126,7 +126,7 @@ todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |    -     |20 de julio, 18:00 hrs.|
+| Sesión de Q&A sobre el programa.             |   Fija   |    -     |, hrs.|
 | Simulación de entrevista técnica.            | Abierta  |Del -- de ---- al -- de -----|          |
 | Envío de feedback escrito a estudiante.      | Abierta  |1 a 2 días después de la simulación          |          |
 | Envío de formulario de feedback al equipo.   | Abierta  |Hasta el - de ------          |          |
