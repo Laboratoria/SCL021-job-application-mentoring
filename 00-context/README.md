@@ -126,10 +126,10 @@ todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |    -     |, hrs.|
-| Simulación de entrevista técnica.            | Abierta  |Del -- de ---- al -- de -----|          |
+| Sesión de Q&A sobre el programa.             |   Fija   |    -     |26 de octubree, 18:30 hrs.|
+| Simulación de entrevista técnica.            | Abierta  |Del 31 de octubre al 11 de noviembre|          |
 | Envío de feedback escrito a estudiante.      | Abierta  |1 a 2 días después de la simulación          |          |
-| Envío de formulario de feedback al equipo.   | Abierta  |Hasta el - de ------          |          |
+| Envío de formulario de feedback al equipo.   | Abierta  |Hasta el 11 de Noviembre|          |
 
 ## Consideraciones generales
 
