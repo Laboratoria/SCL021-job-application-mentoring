@@ -97,7 +97,7 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   |               Día/hora              |
 |-----------------------------------------------------|----------|----------|-------------------------------------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |    -     |07 de septiembre, 18:30 hrs.|
+| Sesión de Q&A sobre el programa.                    |   Fija   |    -     |07 de septiembre, 18:00 hrs.|
 | Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |    -     |23 de septiembre, 10:00 a 11:45 hrs.|
 | Sesión de revisión y feedback de LinkedIn.          | Abierta  |Del 26 al 30 de septiembre|          |
 | Envío de formulario de feedback al equipo.          | Fija  |Hasta el 10 de octubre     |          |
@@ -126,7 +126,7 @@ todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |    -     |26 de octubre, 18:30 hrs.|
+| Sesión de Q&A sobre el programa.             |   Fija   |    -     |26 de octubre, 18:00 hrs.|
 | Simulación de entrevista técnica.            | Abierta  |Del 31 de octubre al 11 de noviembre|          |
 | Envío de feedback escrito a estudiante.      | Abierta  |1 a 2 días después de la simulación          |          |
 | Envío de formulario de feedback al equipo.   | Abierta  |Hasta el 11 de Noviembre|          |
